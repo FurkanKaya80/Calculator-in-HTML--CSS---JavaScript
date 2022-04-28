@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+div.sayfa{
+    width: 360px;
+    margin: auto;
+}
+table{
+    background: #d1cece;
+    border-spacing: 10px;
+    text-align: center;
+}
+table .btn{
+    width: 60px;
+    background: gray;
+    text-align: center;
+    line-height: 60px;
+    color:#fff;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+table .btn1{
+    width: 60px;
+    background: rgb(163, 161, 161);
+    text-align: center;
+    line-height: 60px;
+    color:#fff;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+table .islem, .gosterge{
+    padding: 4px;
+    text-align: right;
+}
+table .gosterge{
+    height: 60px;
+    background:#f6fafa;
+    color:#333;
+    font-size: 1.8em;
+    text-align: right;
+    line-height: 40px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+table .islem{
+    background:#aaa;
+}
+h1{
+    color: white;
+}
